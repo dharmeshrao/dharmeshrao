@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+ <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
 - 👨‍💻 Connect with me **[dharmesh](https://www.linkedin.com/in/dharmesh-yadav/)**
 
@@ -15,7 +15,7 @@
 - 📫 How to reach me **dharmesh_fw11_313@masai.school**
 
 
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
+ <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
