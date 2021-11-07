@@ -12,7 +12,7 @@
 
 - <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p> 
 
-- 📫 How to reach me **dharmesh_fw11_313@masai.school**
+- 📫 How to reach me **dharmeshaheer@gmail.com**
 
 
  <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
