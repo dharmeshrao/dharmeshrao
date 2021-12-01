@@ -6,7 +6,7 @@
 
  <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 👨‍💻 Check my projects **[here](https://portfolio-dharmeshrao.vercel.app/)**
+- 👨‍💻 Check my projects and portfolio **[here](https://portfolio-dharmeshrao.vercel.app/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
