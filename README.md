@@ -4,7 +4,9 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
- <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+ <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> <p>I am a FullStack Developer and a curious person who loves to know how different things work together. I love to BUILD STUFF and connect with people smarter than me!
+When I am not smashing the keyboard, you will find me playing pubg, reading or watching netflix.
+Currently I am a student at Masai School.</p>
 
 - 👨‍💻 <h2>Check my projects and portfolio **[here](https://portfolio-dharmeshrao.vercel.app/)**</h2>
 
