@@ -8,7 +8,7 @@
 When I am not smashing the keyboard, you will find me playing pubg, reading or watching netflix.
 Currently I am a student at Masai School.</p>
 
-- 👨‍💻 <h2>Check my projects and portfolio **[here](https://portfolio-dharmeshrao.vercel.app/)**</h2>
+- 👨‍💻 Check my projects and portfolio **[Dharmesh](https://portfolio-dharmeshrao.vercel.app/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
