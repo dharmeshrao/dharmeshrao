@@ -5,10 +5,7 @@
 
 
  <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> <p>I am a FullStack Developer and a curious person who loves to know how different things work together. I love to BUILD STUFF and connect with people smarter than me!
-When I am not smashing the keyboard, you will find me playing pubg, reading or watching netflix.
-Currently I am a student at Masai School.</p>
-
-- 👨‍💻 Check my projects and portfolio **[Dharmesh](https://portfolio-dharmeshrao.vercel.app/)**
+When I am not smashing the keyboard, you will find me playing pubg, reading or watching netflix.</p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -18,8 +15,6 @@ Currently I am a student at Masai School.</p>
 
 ## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/dharmesh-yadav/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/dharmesh_ydv/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
